@@ -1,2 +1,1 @@
-# rsschool-cv
-https://SemeonGuido.github.io/rsschool-cv/cv
+# [rsschool-cv](http://SemeonGuido.github.io/rsschool-cv/cv)
