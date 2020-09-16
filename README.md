@@ -1,2 +1,2 @@
 # rsschool-cv
-Task: Git &amp; Markdown
+https://SemeonGuido.github.io/rsschool-cv/cv
